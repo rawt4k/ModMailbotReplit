@@ -24,11 +24,11 @@ class ConfigManager:
 
     public_keys = {
         # activity
-        "twitch_url": "https://www.twitch.tv/ventispurr/",
+        "twitch_url": "https://www.twitch.tv/discordmodmail/",
         # bot settings
         "main_category_id": None,
         "fallback_category_id": None,
-        "prefix": "b!",
+        "prefix": "?",
         "mention": "@here",
         "main_color": str(discord.Color.blurple()),
         "error_color": str(discord.Color.red()),
@@ -152,16 +152,16 @@ class ConfigManager:
 
     protected_keys = {
         # Modmail
-        "modmail_guild_id": 919027969173901362,
-        "guild_id": 919027969173901362,
-        "log_url": "https://bgclogviewer.herokuapp.com/",
+        "modmail_guild_id": None,
+        "guild_id": None,
+        "log_url": "https://example.com/",
         "log_url_prefix": "/logs",
-        "mongo_uri": "mongodb+srv://bgcmodmail:Iloverachael$$811@cluster0.nnymp.mongodb.net/",
+        "mongo_uri": None,
         "database_type": "mongodb",
-        "connection_uri": "mongodb+srv://bgcmodmail:Iloverachael$$811@cluster0.nnymp.mongodb.net/",  # replace mongo uri in the future
-        "owners": 429013973501870100,
+        "connection_uri": None,  # replace mongo uri in the future
+        "owners": None,
         # bot
-        "token": "OTIyMjA2MzIzNzU4NzQzNjMz.Yb-FkQ.0v5reD_DxS1pHHAvd_7X8f51Ssk",
+        "token": None,
         "enable_plugins": True,
         "enable_eval": True,
         # github access token for private repositories
