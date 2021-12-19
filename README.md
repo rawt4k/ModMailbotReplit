@@ -35,10 +35,9 @@ So we will need logviewer's url and modmail webserver's url
 - You can use Uptime robot. It will ping your replit projects to keep them online for free.
 
 
-**Uptime Robot**: [Click here](https://uptimerobot)
+**Uptime Robot**: [Click here](https://uptimerobot.com)
 
 
-More info about Pinglik: https://pinglik.eu
 
 ### That's all.
 
