@@ -32,11 +32,10 @@ Modmail bot wiki: https://github.com/kyb3r/modmail/wiki
 If you will skip this step your modmail will go offline after 30 minutes of inactivity (when you leave replit project's page).
 So we will need logviewer's url and modmail webserver's url
 
-- You can use my website monitoring app. It will ping your replit projects to keep them online for free.
+- You can use Uptime robot. It will ping your replit projects to keep them online for free.
 
-**Pinglik Uptimer** (recommended ⭐, it has custom ping interval and Discord notifications + much more): [Click here](https://uptimer.pinglik.eu)
 
-**Simple Pinglik** (simple web pinger): [Click here](https://simple.pinglik.eu)
+**Uptime Robot**: [Click here](https://uptimerobot)
 
 
 More info about Pinglik: https://pinglik.eu
