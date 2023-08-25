@@ -41,4 +41,4 @@ So we will need logviewer's url and modmail webserver's url
 
 ### That's all.
 
-If you need help you can open new modmail support thread on [BubbleGum Cafe Server](https://its.ventispurr.xyz/bubblegumcafe) and I will help you
+If you need help you can open new modmail support thread on [BubbleGum Cafe Server](https://its.ventispurr.xyz/bubblegumcafe) and I will help you.
